@@ -32,4 +32,8 @@ Fundamentally, the site at mangaupdates.com/releases.html is indespensible to se
 
 ## Where to go with all this?
 
-I honestly don't know.  I'm going to continue jotting down my thoughts, for now.  I may try my hands at a database prototype / sketch to show what kind of information needs to be tracked.  I may just make this a dream journal of a site that will never exist.
+The first step is to think about a database.  A database that is modular, open, and movable.  I plan to prototype a thorough database.  What I need is a rip of a big datapool (such as mangaupdates or mangatraders) to populate this database with information.  Then, once this database is shared and useful, we can start thinking about making a new site.
+
+*Making the data portable comes first*.
+
+Do I really think this all is going to happen?  Maybe.  I doubt I'm going to be the guy who ultimately does it, but hopefully this kind of brainstorming at least moves along a more motivated crowd.
